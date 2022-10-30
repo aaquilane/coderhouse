@@ -1,0 +1,12 @@
+[
+    {"domicilio": "Gran Canaria 650", "ciudad": "Quilmes", "provincia": "Buenos Aires", "cantidadPersonas": 5,  "tipoDeVivienda": "Casa"},
+    {"domicilio": "Urquiza 1558", "ciudad": "Quilmes", "provincia": "Buenos Aires", "cantidadPersonas": 2,  "tipoDeVivienda": "Casa"},
+    {"domicilio": "9 de Julio 186", "ciudad": "Bernal", "provincia": "Buenos Aires", "cantidadPersonas": 3, "tipoDeVivienda": "Casa"},
+    {"domicilio": "Los Andes entre 172 y 173", "ciudad": "Bernal", "provincia": "Buenos Aires", "cantidadPersonas": 3,  "tipoDeVivienda": "Departamento"},
+    {"domicilio": "Cuenca 5125", "ciudad": "Ezpeleta", "provincia": "Buenos Aires", "cantidadPersonas": 2, "tipoDeVivienda": "Departamento"},
+    {"domicilio": "Calle 897 N° 3598", "ciudad": "Solano", "provincia": "Buenos Aires", "cantidadPersonas": 1,  "tipoDeVivienda": "Departamento"},
+    {"domicilio": "Iriarte 1780", "ciudad": "Quilmes", "provincia": "Buenos Aires", "cantidadPersonas": 1,  "tipoDeVivienda": "Casa"},
+    {"domicilio": "Iriarte 1785", "ciudad": "Quilmes", "provincia": "Buenos Aires", "cantidadPersonas": 1,  "tipoDeVivienda": "Casa"},
+    {"domicilio": "Iriarte 1790", "ciudad": "Quilmes", "provincia": "Buenos Aires", "cantidadPersonas": 1,  "tipoDeVivienda": "Casa"},
+    {"domicilio": "Iriarte 1792", "ciudad": "Quilmes", "provincia": "Buenos Aires", "cantidadPersonas": 1,  "tipoDeVivienda": "Casa"}
+]
